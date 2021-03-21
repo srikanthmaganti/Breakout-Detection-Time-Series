@@ -16,4 +16,4 @@ All the files will be in pdf and ipynb format
 
 7.Comprehensive analysis of all sensors combined is done in comprehensive_analysis_breakout_detection by considering all the sensor values into consideration
  
-8.Comprehensive analysis is done for the past 8 steps data and y label is assigned by root mean square of all sensors data
+8.Comprehensive analysis is done for the past 8 steps data and y label is assigned by root mean square of all sensors data.
